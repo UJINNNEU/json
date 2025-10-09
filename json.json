@@ -1,0 +1,15 @@
+{
+  "name": "Alex",
+  "age": 25,
+  "skills": ["Kotlin", "Android", "Go"],
+  "projects": [
+    {
+      "name": "Android Compose App",
+      "status": "in progress"
+    },
+    {
+      "name": "KMM Project",
+      "status": "planning"
+    }
+  ]
+}
